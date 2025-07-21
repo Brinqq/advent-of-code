@@ -148,7 +148,3 @@ _fread_solution:
       mov $1, %rax
       addq $72, %rsp
       retq
-
-P   A   H   N
-A P L S I I G
-Y   I   R
